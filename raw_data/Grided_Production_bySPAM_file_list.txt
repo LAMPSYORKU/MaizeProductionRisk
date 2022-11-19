@@ -1,0 +1,4 @@
+https://s3.amazonaws.com/mapspam/2000/v3.0.7/geotiff/spam2000v3.0.7_global_production.geotiff.zip
+https://s3.amazonaws.com/mapspam/2005/v3.2/geotiff/spam2005v3r2_global_val_prod_agg.geotiff.zip
+https://s3.amazonaws.com/mapspam/2010/v2.0/geotiff/spam2010v2r0_global_val_prod_agg.geotiff.zip
+
