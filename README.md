@@ -15,11 +15,11 @@ This repository is used to store raw data, calculated data, programs and softwar
 #### 1.3.8 conda install -c anaconda jupyter
 
 ## 2.Download data
-### mkdir climada_work
-### cd climada_work
-### copy Historical_RCP26_RCP60_file_list.txt (in the raw_data directory) to climada_work/
-### wget -ci Historical_RCP26_RCP60_file_list.txt to download all historical simulation and future projection data to current work directory
-### dircetly download land use data and spam production data
+### 2.1 mkdir climada_work
+### 2.2 cd climada_work
+### 2.3 copy Historical_RCP26_RCP60_file_list.txt (in the raw_data directory) to climada_work/
+### 2.4 wget -ci Historical_RCP26_RCP60_file_list.txt to download all historical simulation and future projection data to current work directory
+### 2.5 dircetly download land use data and spam production data
 
 ## Analyze data with python program following the guidance of climada_petals
 
