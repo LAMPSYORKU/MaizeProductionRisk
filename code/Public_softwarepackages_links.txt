@@ -1,0 +1,8 @@
+numpy: https://numpy.org/
+pandas:https://pandas.pydata.org/
+xarray:https://xarray.dev/
+cartopy:https://pypi.org/project/Cartopy/
+matplotlib:https://matplotlib.org/  
+mpl_toolkits:https://matplotlib.org/2.2.2/mpl_toolkits/index.html
+climada:https://github.com/CLIMADA-project/climada_python
+climada_petals:https://github.com/CLIMADA-project/climada_petals
