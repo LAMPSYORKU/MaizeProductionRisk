@@ -21,5 +21,5 @@ This repository is used to store raw data, calculated data, programs and softwar
 ### 2.4 wget -ci Historical_RCP26_RCP60_file_list.txt to download all historical simulation and future projection data to current work directory
 ### 2.5 dircetly download land use data and spam production data
 
-## Analyze data with python program following the guidance of climada_petals
+## 3. Analyze data with python program following the guidance of climada_petals
 
