@@ -4,4 +4,10 @@ This repository is used to store raw data, calculated data, programs and softwar
 ### Download and install anoconda3 packages for 64-bit Windows with Python 3.8
 ### conda create --name climada_env
 ### conda activate climada_env
-
+#### conda install numpy
+#### conda install padas
+#### conda install matplotlib
+#### conda install cartopy
+#### conda install xarray
+#### pip install -e climada_python [https://climada-python.readthedocs.io/en/stable/guide/Guide_Installation.html]
+#### pip install -e climada_petals [https://climada-python.readthedocs.io/en/stable/guide/Guide_Installation.html]
