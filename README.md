@@ -3,7 +3,7 @@ This repository is used to store raw data, calculated data, programs and softwar
 
 ## 1. Work environment setting 
 ### 1.1 Download and install anoconda3 packages for 64-bit Windows with Python 3.8
-### 1.2 conda create --name climada_env
+### 1.2 <pre>conda create --name climada_env</pre?
 ### 1.3 conda activate climada_env
 #### 1.3.1 conda install numpy
 #### 1.3.2 conda install padas
