@@ -19,7 +19,7 @@ This repository is used to store raw data, calculated data, programs and softwar
 
 ### <pre>mkdir climada_work</pre>
 ### <pre>cd climada_work</pre>
-### copy Historical_RCP26_RCP60_file_list.txt (in the raw_data directory) to climada_work/
+### copy Historical_RCP26_RCP60_file_list.txt ([in the raw_data directory](https://github.com/LAMPSYORKU/MaizeProductionRisk/blob/main/raw_data/Historical_RCP26_RCP60_file_list.txt)) to climada_work/
 ### <pre>wget -ci Historical_RCP26_RCP60_file_list.txt</pre> to download all historical simulation and future projection data to current work directory
 ### dircetly download land use data (https://github.com/LAMPSYORKU/MaizeProductionRisk/blob/main/raw_data/histsoc_landuse-15crops_annual.txt) and spam production data (https://github.com/LAMPSYORKU/MaizeProductionRisk/blob/main/raw_data/Grided_Production_bySPAM_file_list.txt)
 
