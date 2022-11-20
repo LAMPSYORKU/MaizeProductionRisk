@@ -2,7 +2,7 @@
 This repository is used to store raw data, calculated data, programs and software package list for the paper "Climate change poses significant risks to maize production over the Great Lakes region"
 
 ## 1. Work environment setting 
-### 1.1 Download and install anoconda3 packages for 64-bit Windows with Python 3.8
+###  Download and install anoconda3 packages for 64-bit Windows with Python 3.8
 #### <pre>conda create --name climada_env</pre>
 #### <pre>conda activate climada_env</pre>
 #### <pre>conda install numpy</pre>
