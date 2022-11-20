@@ -17,11 +17,11 @@ This repository is used to store raw data, calculated data, programs and softwar
 ## 2.Download data
 ### Note: all links are in the github subdirectory: https://github.com/LAMPSYORKU/MaizeProductionRisk/tree/main/raw_data
 
-### 2.1 mkdir climada_work
-### 2.2 cd climada_work
-### 2.3 copy Historical_RCP26_RCP60_file_list.txt (in the raw_data directory) to climada_work/
-### 2.4 wget -ci Historical_RCP26_RCP60_file_list.txt to download all historical simulation and future projection data to current work directory
-### 2.5 dircetly download land use data and spam production data
+### <pre>mkdir climada_work</pre>
+### <pre>cd climada_work</pre>
+### copy Historical_RCP26_RCP60_file_list.txt (in the raw_data directory) to climada_work/
+### <pre>wget -ci Historical_RCP26_RCP60_file_list.txt</pre> to download all historical simulation and future projection data to current work directory
+### dircetly download land use data (https://github.com/LAMPSYORKU/MaizeProductionRisk/blob/main/raw_data/histsoc_landuse-15crops_annual.txt) and spam production data (https://github.com/LAMPSYORKU/MaizeProductionRisk/blob/main/raw_data/Grided_Production_bySPAM_file_list.txt)
 
 ## 3. Analyze data with python program following the guidance of climada_petals
 ### All calculated data are in the github subdirectory: https://github.com/LAMPSYORKU/MaizeProductionRisk/tree/main/calculated_data
