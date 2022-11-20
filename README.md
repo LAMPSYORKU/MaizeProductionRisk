@@ -25,10 +25,10 @@ This repository is used to store raw data, calculated data, programs and softwar
 
 ## 3. Analyze data with python program following the guidance of climada_petals
 ### All calculated data are in the github subdirectory: https://github.com/LAMPSYORKU/MaizeProductionRisk/tree/main/calculated_data
-### All of the following code is in the github subdirectory: https://github.com/LAMPSYORKU/MaizeProductionRisk/tree/main/code/ipynb
 ### All public software packages links are listed in file https://github.com/LAMPSYORKU/MaizeProductionRisk/blob/main/code/Public_softwarepackages_links.txt
 ### All generated figures are in the github subdirectory: https://github.com/LAMPSYORKU/MaizeProductionRisk/tree/main/FIGURES
 ### The summary statistical analysis table is in the github subdirectory: https://github.com/LAMPSYORKU/MaizeProductionRisk/tree/main/Tables
+### All of the following code is in the github subdirectory: https://github.com/LAMPSYORKU/MaizeProductionRisk/tree/main/code/ipynb
 
 ### Program 1: display_geotiff_gridded_production_data-2000.ipynb,display the global grid production in 2000, extract and save the data of the study area
 ### Program 2: display_geotiff_gridded_production_data-2005.ipynb,display the global grid production in 2005, extract and save the data of the study area
