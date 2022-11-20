@@ -3,16 +3,16 @@ This repository is used to store raw data, calculated data, programs and softwar
 
 ## 1. Work environment setting 
 ### 1.1 Download and install anoconda3 packages for 64-bit Windows with Python 3.8
-### 1.2 <pre>conda create --name climada_env</pre?
-### 1.3 conda activate climada_env
-#### 1.3.1 conda install numpy
-#### 1.3.2 conda install padas
-#### 1.3.3 conda install matplotlib
-#### 1.3.4 conda install cartopy
-#### 1.3.5 conda install xarray
-#### 1.3.6 pip install -e climada_python [https://climada-python.readthedocs.io/en/stable/guide/Guide_Installation.html]
-#### 1.3.7 pip install -e climada_petals [https://climada-python.readthedocs.io/en/stable/guide/Guide_Installation.html]
-#### 1.3.8 conda install -c anaconda jupyter
+#### <pre>conda create --name climada_env</pre>
+#### <pre>conda activate climada_env</pre>
+#### <pre>conda install numpy</pre>
+#### <pre>conda install padas</pre>
+#### <pre>conda install matplotlib</pre>
+#### <pre>conda install cartopy</pre>
+#### <pre>conda install xarray</pre>
+#### <pre>pip install -e climada_python</pre> [https://climada-python.readthedocs.io/en/stable/guide/Guide_Installation.html]
+#### <pre>pip install -e climada_petals</pre> [https://climada-python.readthedocs.io/en/stable/guide/Guide_Installation.html]
+#### <pre>conda install -c anaconda jupyter</pre>
 
 ## 2.Download data
 ### Note: all links are in the github subdirectory: https://github.com/LAMPSYORKU/MaizeProductionRisk/tree/main/raw_data
